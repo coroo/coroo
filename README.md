@@ -24,7 +24,7 @@ A software engineer with more than 8 years of experience in architecture design 
 ⚡ Fun fact: 
 There is a wide range of innovations being explored in this industry. In 2018, 30 percent of insurance companies were already using or considering using robotic process automation (RPA) to review claims. However, no insurers were already using RPA for underwriting processes. Underwriting automation means that the process of evaluating the risk of insuring a client will be performed by a computer, rather than a person. 
 
-🤔 So That:
+🤔 So that:
 There is still plenty of room for growth, because very few insurers have mastered how to integrate this innovation into their business models. 
 
 ------
