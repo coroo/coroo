@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 A software engineer with more than 8 years of experience in architecture design & engineering, microservices, and programming.
 
-🔭 I’m currently working on of the insurance in Indonesia to built an insurtech. Why insurtech? Because of this fun fact 👇:
+🔭 I’m currently working at one of the insurance in Indonesia to built an insurtech. Why insurtech? Because of this fun fact 👇:
 
 ⚡ Fun fact: 
 There is a wide range of innovations being explored in this industry. In 2018, 30 percent of insurance companies were already using or considering using robotic process automation (RPA) to review claims. However, no insurers were already using RPA for underwriting processes. Underwriting automation means that the process of evaluating the risk of insuring a client will be performed by a computer, rather than a person. 
