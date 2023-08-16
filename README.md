@@ -15,21 +15,17 @@ Here are some ideas to get you started:
 
 ### Hi, Kuncoro here 🦘
      
-<a href="https://linkedin.com/in/coroowicaksono" rel="nofollow"><img src="https://camo.githubusercontent.com/69d105983e648a783833c09ebc1c1cf0fe2ee14b/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67" height="30" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" style="max-width:100%;"></a> &nbsp; 
+<a href="https://linkedin.com/in/coroowicaksono" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" data-canonical-src="https://image.flaticon.com/icons/png/512/174/174857.png" style="max-width:100%;"></a> &nbsp; 
 
-A software engineer with more than 8 years of experience in architecture design & engineering, microservices, and programming.
+Software Engineer with 10+ years experience in creating and executing innovative software solutions to enhance business productivity. Well-versed in technology and writing code to create system that reliable and user-friendly. I have focus on fullstack development, include of backend, frontend and mobile application, familiar with maintaining and improving the reliability, availability, and scalability of microservice architecture.
 
-🔭 I’m currently working at one of the insurance in Indonesia to built an insurtech. Why insurtech? Because of this fun fact 👇:
-
-⚡ Fun fact: 
-There is a wide range of innovations being explored in this industry. In 2018, 30 percent of insurance companies were already using or considering using robotic process automation (RPA) to review claims. However, no insurers were already using RPA for underwriting processes. Underwriting automation means that the process of evaluating the risk of insuring a client will be performed by a computer, rather than a person. 
-
-🤔 So that:
-There is still plenty of room for growth, because very few insurers have mastered how to integrate this innovation into their business models. 
+📫 How to reach me:
+- Email: coroo.wicaksono@gmail.com
+- LinkedIn: <a href="https://linkedin.com/in/coroowicaksono" rel="nofollow">LinkedIn Profile</a>
 
 ------
 
-In living with it, I learned and build some stuff behind the scene 🤫 , there are:
+I learned and build some stuff behind the scene 🤫 , there are:
 
 - [Laravel Nova Chart Dashboard](https://coroo.github.io/nova-chartjs/) - A simple chart that you can easily use in Laravel Nova.
 - [Python Unit Testing Commentator](https://github.com/marketplace/actions/pytest-coverage-commentator) - Automate unit testing coverage in your python application right after you do pull request to defined branch.
